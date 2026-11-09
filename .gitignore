@@ -1,0 +1,19 @@
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables and API keys
+.env
+
+# Promptfoo local files
+.promptfoo/
+
+# IDE settings
+.vscode/
